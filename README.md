@@ -17,6 +17,7 @@ You should use both supervised and unsupervised learning to tackled 2 tasks:
 
 
 Task 1 (Supervised Learning) - Predicting Adoption and Adoption Speed
+
 Task 2 (Unsupervised Learning) - Charactering Adopted Pets and Adoption Speed
 
 The PetFinder_dataset.csv you should learn from has 14.993 instances described by 24 data fields that you might use as categorical/numerical features and
